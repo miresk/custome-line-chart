@@ -3,22 +3,22 @@
     "supplierId" : 22,
     "supplierName" : "Microsoft Corp",
     "overallCurrentValue" : 600.00,
-    "overallAverageValue" : 0.001,
+    "overallAverageValue" : 0.001
   }, {
     "supplierId" : 23,
     "supplierName" : "Oracle Corp",
     "overallCurrentValue" : 500.00,
-    "overallAverageValue" : 501.19,
+    "overallAverageValue" : 501.19
   }, {
     "supplierId" : 24,
     "supplierName" : "QAD, Inc",
     "overallCurrentValue" : 500.00,
-    "overallAverageValue" : 579.07,
+    "overallAverageValue" : 579.07
   }, {
     "supplierId" : 25,
     "supplierName" : "SAP SE",
     "overallCurrentValue" : 700.00,
-    "overallAverageValue" : 647.65,
+    "overallAverageValue" : 647.65
   }, {
     "benchmarkCategory" : "category",
     "overallCurrentValue" : 550.00,
@@ -28,22 +28,22 @@
     "supplierId" : 22,
     "supplierName" : "Microsoft Corp",
     "overallCurrentValue" : 600.00,
-    "overallAverageValue" : 697.85,
+    "overallAverageValue" : 697.85
   }, {
     "supplierId" : 23,
     "supplierName" : "Oracle Corp",
     "overallCurrentValue" : 500.00,
-    "overallAverageValue" : 504.29,
+    "overallAverageValue" : 504.29
   }, {
     "supplierId" : 24,
     "supplierName" : "QAD, Inc",
     "overallCurrentValue" : 500.00,
-    "overallAverageValue" : 583.27,
+    "overallAverageValue" : 583.27
   }, {
     "supplierId" : 25,
     "supplierName" : "SAP SE",
     "overallCurrentValue" : 700.00,
-    "overallAverageValue" : 647.44,
+    "overallAverageValue" : 647.44
   }, {
     "benchmarkCategory" : "category",
     "overallCurrentValue" : 560.00,
@@ -53,22 +53,22 @@
     "supplierId" : 22,
     "supplierName" : "Microsoft Corp",
     "overallCurrentValue" : 600.00,
-    "overallAverageValue" : 700.08,
+    "overallAverageValue" : 700.08
   }, {
     "supplierId" : 23,
     "supplierName" : "Oracle Corp",
     "overallCurrentValue" : 500.00,
-    "overallAverageValue" : 510.40,
+    "overallAverageValue" : 510.40
   }, {
     "supplierId" : 24,
     "supplierName" : "QAD, Inc",
     "overallCurrentValue" : 500.00,
-    "overallAverageValue" : 587.48,
+    "overallAverageValue" : 587.48
   }, {
     "supplierId" : 25,
     "supplierName" : "SAP SE",
     "overallCurrentValue" : 700.00,
-    "overallAverageValue" : 647.76,
+    "overallAverageValue" : 647.76
   }, {
     "benchmarkCategory" : "category",
     "overallCurrentValue" : 550.00,
@@ -78,22 +78,22 @@
     "supplierId" : 22,
     "supplierName" : "Microsoft Corp",
     "overallCurrentValue" : 600.00,
-    "overallAverageValue" : 702.32,
+    "overallAverageValue" : 702.32
   }, {
     "supplierId" : 23,
     "supplierName" : "Oracle Corp",
     "overallCurrentValue" : 500.00,
-    "overallAverageValue" : 516.50,
+    "overallAverageValue" : 516.50
   }, {
     "supplierId" : 24,
     "supplierName" : "QAD, Inc",
     "overallCurrentValue" : 500.00,
-    "overallAverageValue" : 591.69,
+    "overallAverageValue" : 591.69
   }, {
     "supplierId" : 25,
     "supplierName" : "SAP SE",
     "overallCurrentValue" : 700.00,
-    "overallAverageValue" : 648.08,
+    "overallAverageValue" : 648.08
   }, {
     "benchmarkCategory" : "category",
     "overallCurrentValue" : 570.00,
@@ -103,22 +103,22 @@
     "supplierId" : 22,
     "supplierName" : "Microsoft Corp",
     "overallCurrentValue" : 600.00,
-    "overallAverageValue" : 704.55,
+    "overallAverageValue" : 704.55
   }, {
     "supplierId" : 23,
     "supplierName" : "Oracle Corp",
     "overallCurrentValue" : 500.00,
-    "overallAverageValue" : 522.61,
+    "overallAverageValue" : 522.61
   }, {
     "supplierId" : 24,
     "supplierName" : "QAD, Inc",
     "overallCurrentValue" : 500.00,
-    "overallAverageValue" : 595.90,
+    "overallAverageValue" : 595.90
   }, {
     "supplierId" : 25,
     "supplierName" : "SAP SE",
     "overallCurrentValue" : 700.00,
-    "overallAverageValue" : 648.41,
+    "overallAverageValue" : 648.41
   }, {
     "benchmarkCategory" : "category",
     "overallCurrentValue" : 550.00,
@@ -128,22 +128,22 @@
     "supplierId" : 22,
     "supplierName" : "Microsoft Corp",
     "overallCurrentValue" : 600.00,
-    "overallAverageValue" : 706.79,
+    "overallAverageValue" : 706.79
   }, {
     "supplierId" : 23,
     "supplierName" : "Oracle Corp",
     "overallCurrentValue" : 500.00,
-    "overallAverageValue" : 528.72,
+    "overallAverageValue" : 528.72
   }, {
     "supplierId" : 24,
     "supplierName" : "QAD, Inc",
     "overallCurrentValue" : 500.00,
-    "overallAverageValue" : 600.11,
+    "overallAverageValue" : 600.11
   }, {
     "supplierId" : 25,
     "supplierName" : "SAP SE",
     "overallCurrentValue" : 700.00,
-    "overallAverageValue" : 648.74,
+    "overallAverageValue" : 648.74
   }, {
     "benchmarkCategory" : "category",
     "overallCurrentValue" : 550.00,
@@ -153,22 +153,22 @@
     "supplierId" : 22,
     "supplierName" : "Microsoft Corp",
     "overallCurrentValue" : 600.00,
-    "overallAverageValue" : 709.20,
+    "overallAverageValue" : 709.20
   }, {
     "supplierId" : 23,
     "supplierName" : "Oracle Corp",
     "overallCurrentValue" : 500.00,
-    "overallAverageValue" : 534.21,
+    "overallAverageValue" : 534.21
   }, {
     "supplierId" : 24,
     "supplierName" : "QAD, Inc",
     "overallCurrentValue" : 500.00,
-    "overallAverageValue" : 603.59,
+    "overallAverageValue" : 603.59
   }, {
     "supplierId" : 25,
     "supplierName" : "SAP SE",
     "overallCurrentValue" : 700.00,
-    "overallAverageValue" : 647.92,
+    "overallAverageValue" : 647.92
   }, {
     "benchmarkCategory" : "category",
     "overallCurrentValue" : 550.00,
@@ -178,22 +178,22 @@
     "supplierId" : 22,
     "supplierName" : "Microsoft Corp",
     "overallCurrentValue" : 600.00,
-    "overallAverageValue" : 0.001,
+    "overallAverageValue" : 0.001
   }, {
     "supplierId" : 23,
     "supplierName" : "Oracle Corp",
     "overallCurrentValue" : 500.00,
-    "overallAverageValue" : 539.70,
+    "overallAverageValue" : 539.70
   }, {
     "supplierId" : 24,
     "supplierName" : "QAD, Inc",
     "overallCurrentValue" : 500.00,
-    "overallAverageValue" : 607.07,
+    "overallAverageValue" : 607.07
   }, {
     "supplierId" : 25,
     "supplierName" : "SAP SE",
     "overallCurrentValue" : 700.00,
-    "overallAverageValue" : 647.11,
+    "overallAverageValue" : 647.11
   }, {
     "benchmarkCategory" : "category",
     "overallCurrentValue" : 540.00,
